@@ -3,6 +3,39 @@
 
 ---
 
+## 🔗 Tautan Pengumpulan Tugas
+* *Tautan Repositori GitHub:* [https://github.com/nshifa/FafaGadgets-Kait.git]
+* *Tautan Website Aktif (GitHub Pages):* [https://nshifa.github.io/FafaGadgets-Kait/]
+
+---
+
+## 📸 Tangkapan Layar Tampilan (Screenshots)
+
+### A. Tampilan Desktop (Desktop View)
+Berikut adalah tampilan antarmuka FafaGadgets pada resolusi desktop:
+
+| **Halaman Beranda (Home)** | **Halaman Katalog (Shop)** |
+|:---:|:---:|
+| ![Desktop Home](screenshots/Desktop%20Home.png) | ![Desktop Katalog](screenshots/Desktop%20Katalog.png) |
+| **Halaman Strategi & Analitik** | **Halaman Checkout** |
+| ![Desktop Strategy](screenshots/Desktop%20Strategy.png) | ![Desktop Checkout](screenshots/Desktop%20Checkout.png) |
+| **Pelacakan Pengiriman (Tracking)** | |
+| ![Desktop Tracking](screenshots/Desktop%20Tracking.png) | |
+
+### B. Tampilan Mobile (Mobile View)
+Berikut adalah tampilan antarmuka FafaGadgets pada resolusi layar seluler (HP):
+
+| **Halaman Beranda (Home)** | **Halaman Katalog (Shop)** |
+|:---:|:---:|
+| ![Mobile Home](screenshots/Mobile%20Home.jpg) | ![Mobile Katalog](screenshots/Mobile%20Katalog.jpg) |
+| **Halaman Strategi & Analitik** | **Halaman Checkout** |
+| ![Mobile Strategy](screenshots/Mobile%20Strategy.jpg) | ![Mobile Checkout](screenshots/Mobile%20Checkout.jpg) |
+| **Pelacakan Pengiriman (Tracking)** | |
+| ![Mobile Tracking](screenshots/Mobile%20Tracking.jpg) | |
+
+---
+
+
 ## 1. Identitas Bisnis & Value Proposition
 * **Nama Bisnis:** FafaGadgets
 * **Tagline:** *"Future Technology, Delivered Today"*
